@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NPm58/0LGZpuZ7ycDdaNT1mt8dhkMe8xnw5AvKCkJZgZho00PRzNYiZjo1cL1DxzU27YJNpSWqBq/15hcohAKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chidinma.ejike\\Documents\\Work Projects\\QuizAppAPI\\QuizApp.Repositories\\QuizApp.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chidinma.ejike\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\chidinma.ejike\\.nuget\\packages\\microorm.dapper.repositories\\1.25.0\\microorm.dapper.repositories.1.25.0.nupkg.sha512"
+  ],
+  "logs": []
+}

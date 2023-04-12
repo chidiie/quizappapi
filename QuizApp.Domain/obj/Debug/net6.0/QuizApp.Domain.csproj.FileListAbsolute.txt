@@ -1,0 +1,12 @@
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Domain\bin\Debug\net6.0\QuizApp.Domain.deps.json
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Domain\bin\Debug\net6.0\QuizApp.Domain.dll
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Domain\bin\Debug\net6.0\QuizApp.Domain.pdb
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Domain\obj\Debug\net6.0\QuizApp.Domain.csproj.AssemblyReference.cache
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Domain\obj\Debug\net6.0\QuizApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Domain\obj\Debug\net6.0\QuizApp.Domain.AssemblyInfoInputs.cache
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Domain\obj\Debug\net6.0\QuizApp.Domain.AssemblyInfo.cs
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Domain\obj\Debug\net6.0\QuizApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Domain\obj\Debug\net6.0\QuizApp.Domain.dll
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Domain\obj\Debug\net6.0\refint\QuizApp.Domain.dll
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Domain\obj\Debug\net6.0\QuizApp.Domain.pdb
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Domain\obj\Debug\net6.0\ref\QuizApp.Domain.dll

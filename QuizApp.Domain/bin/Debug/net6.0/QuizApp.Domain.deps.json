@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "QuizApp.Domain/1.0.0": {
+        "dependencies": {
+          "MicroOrm.Dapper.Repositories": "1.25.0"
+        },
+        "runtime": {
+          "QuizApp.Domain.dll": {}
+        }
+      },
+      "Dapper/2.0.123": {
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.123.33578"
+          }
+        }
+      },
+      "MicroOrm.Dapper.Repositories/1.25.0": {
+        "dependencies": {
+          "Dapper": "2.0.123"
+        },
+        "runtime": {
+          "lib/net6.0/MicroOrm.Dapper.Repositories.dll": {
+            "assemblyVersion": "1.25.0.0",
+            "fileVersion": "1.25.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuizApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper/2.0.123": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RDFF4rBLLmbpi6pwkY7q/M6UXHRJEOerplDGE5jwEkP/JGJnBauAClYavNKJPW1yOTWRPIyfj4is3EaJxQXILQ==",
+      "path": "dapper/2.0.123",
+      "hashPath": "dapper.2.0.123.nupkg.sha512"
+    },
+    "MicroOrm.Dapper.Repositories/1.25.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sXZKal8W784sy4BV/JFb8Ds2o9PRVoj35OeKbcY8kLHHkhfw/gkWIXzrKpUF0Qd4DUJjWqij1gzKeg5P/6iBaw==",
+      "path": "microorm.dapper.repositories/1.25.0",
+      "hashPath": "microorm.dapper.repositories.1.25.0.nupkg.sha512"
+    }
+  }
+}

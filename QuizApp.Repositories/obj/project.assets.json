@@ -1,0 +1,160 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Dapper/2.0.123": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {}
+        }
+      },
+      "MicroOrm.Dapper.Repositories/1.25.0": {
+        "type": "package",
+        "dependencies": {
+          "Dapper": "2.0.123"
+        },
+        "compile": {
+          "lib/net6.0/MicroOrm.Dapper.Repositories.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/MicroOrm.Dapper.Repositories.dll": {}
+        }
+      },
+      "QuizApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MicroOrm.Dapper.Repositories": "1.25.0"
+        },
+        "compile": {
+          "bin/placeholder/QuizApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QuizApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dapper/2.0.123": {
+      "sha512": "RDFF4rBLLmbpi6pwkY7q/M6UXHRJEOerplDGE5jwEkP/JGJnBauAClYavNKJPW1yOTWRPIyfj4is3EaJxQXILQ==",
+      "type": "package",
+      "path": "dapper/2.0.123",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Dapper.png",
+        "dapper.2.0.123.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml"
+      ]
+    },
+    "MicroOrm.Dapper.Repositories/1.25.0": {
+      "sha512": "sXZKal8W784sy4BV/JFb8Ds2o9PRVoj35OeKbcY8kLHHkhfw/gkWIXzrKpUF0Qd4DUJjWqij1gzKeg5P/6iBaw==",
+      "type": "package",
+      "path": "microorm.dapper.repositories/1.25.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "icon.png",
+        "lib/net461/MicroOrm.Dapper.Repositories.dll",
+        "lib/net461/MicroOrm.Dapper.Repositories.xml",
+        "lib/net5.0/MicroOrm.Dapper.Repositories.dll",
+        "lib/net5.0/MicroOrm.Dapper.Repositories.xml",
+        "lib/net6.0/MicroOrm.Dapper.Repositories.dll",
+        "lib/net6.0/MicroOrm.Dapper.Repositories.xml",
+        "lib/netstandard2.0/MicroOrm.Dapper.Repositories.dll",
+        "lib/netstandard2.0/MicroOrm.Dapper.Repositories.xml",
+        "microorm.dapper.repositories.1.25.0.nupkg.sha512",
+        "microorm.dapper.repositories.nuspec"
+      ]
+    },
+    "QuizApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../QuizApp.Domain/QuizApp.Domain.csproj",
+      "msbuildProject": "../QuizApp.Domain/QuizApp.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "MicroOrm.Dapper.Repositories >= 1.25.0",
+      "QuizApp.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\chidinma.ejike\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\chidinma.ejike\\Documents\\Work Projects\\QuizAppAPI\\QuizApp.Repositories\\QuizApp.Repository.csproj",
+      "projectName": "QuizApp.Repository",
+      "projectPath": "C:\\Users\\chidinma.ejike\\Documents\\Work Projects\\QuizAppAPI\\QuizApp.Repositories\\QuizApp.Repository.csproj",
+      "packagesPath": "C:\\Users\\chidinma.ejike\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chidinma.ejike\\Documents\\Work Projects\\QuizAppAPI\\QuizApp.Repositories\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\chidinma.ejike\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\chidinma.ejike\\Documents\\Work Projects\\QuizAppAPI\\QuizApp.Domain\\QuizApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\chidinma.ejike\\Documents\\Work Projects\\QuizAppAPI\\QuizApp.Domain\\QuizApp.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "MicroOrm.Dapper.Repositories": {
+            "target": "Package",
+            "version": "[1.25.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

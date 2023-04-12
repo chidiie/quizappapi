@@ -1,0 +1,15 @@
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Repositories\bin\Debug\net6.0\QuizApp.Repository.deps.json
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Repositories\bin\Debug\net6.0\QuizApp.Repository.dll
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Repositories\bin\Debug\net6.0\QuizApp.Repository.pdb
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Repositories\bin\Debug\net6.0\QuizApp.Domain.dll
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Repositories\bin\Debug\net6.0\QuizApp.Domain.pdb
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Repositories\obj\Debug\net6.0\QuizApp.Repository.csproj.AssemblyReference.cache
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Repositories\obj\Debug\net6.0\QuizApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Repositories\obj\Debug\net6.0\QuizApp.Repository.AssemblyInfoInputs.cache
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Repositories\obj\Debug\net6.0\QuizApp.Repository.AssemblyInfo.cs
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Repositories\obj\Debug\net6.0\QuizApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Repositories\obj\Debug\net6.0\QuizApp.Repository.csproj.CopyComplete
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Repositories\obj\Debug\net6.0\QuizApp.Repository.dll
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Repositories\obj\Debug\net6.0\refint\QuizApp.Repository.dll
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Repositories\obj\Debug\net6.0\QuizApp.Repository.pdb
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.Repositories\obj\Debug\net6.0\ref\QuizApp.Repository.dll

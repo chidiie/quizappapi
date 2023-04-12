@@ -1,0 +1,12 @@
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.LoggerService\bin\Debug\net6.0\QuizApp.LoggerService.deps.json
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.LoggerService\bin\Debug\net6.0\QuizApp.LoggerService.dll
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.LoggerService\bin\Debug\net6.0\QuizApp.LoggerService.pdb
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.LoggerService\obj\Debug\net6.0\QuizApp.LoggerService.csproj.AssemblyReference.cache
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.LoggerService\obj\Debug\net6.0\QuizApp.LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.LoggerService\obj\Debug\net6.0\QuizApp.LoggerService.AssemblyInfoInputs.cache
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.LoggerService\obj\Debug\net6.0\QuizApp.LoggerService.AssemblyInfo.cs
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.LoggerService\obj\Debug\net6.0\QuizApp.LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.LoggerService\obj\Debug\net6.0\QuizApp.LoggerService.dll
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.LoggerService\obj\Debug\net6.0\refint\QuizApp.LoggerService.dll
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.LoggerService\obj\Debug\net6.0\QuizApp.LoggerService.pdb
+C:\Users\chidinma.ejike\Documents\Work Projects\QuizAppAPI\QuizApp.LoggerService\obj\Debug\net6.0\ref\QuizApp.LoggerService.dll
